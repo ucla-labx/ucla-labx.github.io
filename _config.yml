@@ -8,8 +8,10 @@ compass:
   # author will appear under the avatar (optional)
   author: "UCLA LABX"
   # tagline will appear under the title (optional)
-  tagline: "ML research & engineering"
-  # if include_content is true, the contents of the content.html include will be
+  tagline: 'ML research & engineering
+    <span class="fa fa-github fa-lg main-list-item-icon"></span>
+    <a href="https://github.com/ucla-labx">GitHub</a>'
+  # if include_content is true, the contents of the cotent.html include will be
   # added right above the generated item list, if present
   include_content: true
   # if include_analytics is true, the content of the analytics.html include will
