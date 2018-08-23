@@ -1,6 +1,7 @@
 # general configuration
 url: https://ucla-labx.github.io
 baseurl: ''
+include_analytics: true
 
 # compass configuration
 compass:
