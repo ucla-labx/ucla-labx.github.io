@@ -7,7 +7,7 @@ compass:
   # an avatar or logo (optional)
   logo: https://avatars0.githubusercontent.com/u/40228274?s=400&u=2029ffeb7a064073aadc1f58972df34d8ab2db9c&v=4
   # author will appear under the avatar (optional)
-  author: "UCLA LABX"
+  author: "LABX"
   # tagline will appear under the title (optional)
   tagline: "ML research & engineering"
   # if include_content is true, the contents of the cotent.html include will be
